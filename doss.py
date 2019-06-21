@@ -1,5 +1,5 @@
 #!/usr/bin/python
-#!--- coded by ANtqAmE ALi Qasseim --!#
+#!--- coded by EL-Rusi Youssef Tarek --!#
 #! I LOVE PYTHON !#
 #colors
 wi = "\033[1;37m" 
@@ -34,9 +34,9 @@ def doss():
                         ________________________________________________________________________________
                        |          .::        ::.            	       .::             ::.              |
                        +===================================+============================================+
-                       |              [+] this script coded by ANtqAmE (ALI QASSEIM) [+]                |
-                       |              Facebook: https://www.facebook.com/ANtqAmE                        |
-                       |              Youtube : https://www.youtube.com/channel/UC1QRVK_K4jWPDXm798orw-g|
+                       |              [+] this script coded by Russian (Youssef Tarek) [+]                |
+                       |              Facebook: https://www.facebook.com/youssef.tooson                       |
+                       |             |
                        +                                   +                                            +
                        |===================================+============================================|
     '''
